@@ -1,5 +1,5 @@
-<h3>lina-cli</h3>
-This project is still in the development stage
+<h1 style="text-align:center">lina-cli</h1>
+<p style="text-align:center"> This project is still in the development stage </p>
 ========
 
 lina-cli is the official scaffolding cli for lina framework
